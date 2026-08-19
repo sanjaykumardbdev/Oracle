@@ -8,3 +8,4 @@ FROM (
 WHERE rnk = 4;
 
 -- If you want the salary to be unique even with duplicates, use ROW_NUMBER() instead of DENSE_RANK().
+-- changes in main repo
